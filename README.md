@@ -1,3 +1,26 @@
+# Udacity Project 3
+- Rinkeby Contract Address: https://rinkeby.etherscan.io/address/0x87e829c6ac3ecfff34a0602f9d811e44e17e6b66
+- Libraries used: **none**
+- IPFS used: **no**
+- Node version: **v8.5.0**
+- Truffle version: **v4.1.14**
+- web3 version: inside `src/js/web3.min.js`
+
+## Diagrams
+
+### Activity Diagram
+![Activity Diagram](images/diagrams/activity.drawio.png)
+
+### Class Diagram
+![Class Diagram](images/diagrams/class.drawio.png)
+
+### Sequence Diagram
+![Sequence Diagram](images/diagrams/sequence.drawio.png)
+
+### State Diagram
+![State Diagram](images/diagrams/state.drawio.png)
+
+
 # Supply chain & data auditing
 
 This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
